@@ -1,0 +1,86 @@
+Name,SettlementType,Cases,Population,Latitude,Longitude
+GREECE / COUNTRY OVERVIEW,- Country Overview,162,80000,39.074208,21.824312
+LEBANON / COUNTRY OVERVIEW,- Country Overview,5,1500000,33.854721,35.862285
+Alan Kurdi (Sea Eye Rescue Boat),Boat Rescue,No Info,No Info,34.5531284,18.0480105
+Adams County Correctional Center,Detention center,14,1042,31.55763,-91.221678
+Bergen County Jail,Detention center,2,209,40.873925,-74.039731
+Bluebonnet Detention Facility,Detention center,27,,32.767292,-99.888147
+Buffalo Federal Detention Facility,Detention center,49,319,43.020343,-78.202518
+Caroline Detention Facility,Detention center,2,268,38.110445,-77.265885
+Catahoula Correctional Center,Detention center,7,500,31.774834,-91.835738
+El Paso Processing Center,Detention center,8,757,31.79644735,-106.3696513
+Elizabeth Detention Center,Detention center,17,309,40.666389,-74.189702
+Essex County Correctional Facility,Detention center,3,616,40.720688,-74.126268
+Etowah County Detention Center,Detention center,1,234,34.016738,-86.011541
+Florence Detention Center,Detention center,10,167,33.044089,-111.371798
+French Detention Center (CRA) : Vincennes,Detention center,2,TBC,48.847759,2.4394969
+Hudson County Jail,Detention center,10,290,40.728276,-74.108437
+IAH Secure Adult Detention Facility,Detention center,1,400,30.697782,-95.005521
+Irwin County Detention Center,Detention center,2,784,31.581056,-83.248365
+Joe Corley Detention Center,Detention center,15,451,30.335993,-95.447596
+Krome Detention Center,Detention center,9,587,25.754483,-80.489138
+La Palma Correctional Facility,Detention center,29,1268,32.814612,-111.528783
+La Salle ICE Processing Center,Detention center,10,1226,31.7083405,-92.1523597
+Montgomery Processing Center,Detention center,3,871,30.340857,-95.416963
+Morrow County Correctional Facility,Detention center,7,31,40.560402,-82.806701
+Otay Mesa Detention Center,Detention center,105,1028,32.575978,-116.913311
+Otero County Processing Center,Detention center,6,911,32.080737,-106.282609
+Pike County Correctional Facility,Detention center,16,191,41.389268,-75.071533
+Pine Prairie ICE Processing Center,Detention center,21,687,30.788907,-92.423094
+Prairieland Detention Center,Detention center,41,617,32.421668,-97.19676
+Pulaski County Detention Center,Detention center,13,152,37.269099,-89.164063
+Richwood Correctional Center,Detention center,60,785,32.457097,-92.078017
+River Correctional Center,Detention center,2,397,31.597397,-91.558051
+Songkhla Immigration Detention,Detention center,60,,7.156519,100.615224
+South Texas ICE Processing Center,Detention center,6,1445,28.895125,-99.121211
+St. Clair County Jail,Detention center,6,58,42.942807,-82.478
+Stewart Detention Center,Detention center,11,1530,32.037073,-84.77056
+Winn Correctional Center,Detention center,7,1297,31.850426,-92.781297
+Wyatt Detention Center,Detention center,1,99,41.892646,-71.383199
+York County Prison,Detention center,1,490,39.986075,-76.663019
+Al Wafa camp,Displaced Camp,0,TBC,34.802075,38.996815
+Al-Furqan camp,Displaced Camp,0,TBC,34.802075,38.996815
+Atmeh Camp,Displaced Camp,No Info,1000000,36.30391,36.693097
+Khatin Camp,Displaced Camp,0,TBC,35.9310271,36.6417777
+Al-Rubkan Camp,"Displaced Camp, Refugee camp",0,40000,34.802075,38.996815
+Afrin,"Displaced Camp, Urban Refugee Camp",0,TBC,36.5122781,36.8653891
+Matamoros Informal Camp,Informal Camp,No Info,2500,25.860526,-97.495378
+Aubervilliers & Paris,Informal settlement,No Info,800,48.900011,2.371695
+Calais,Informal settlement,5,1000,50.97128,1.9078
+Grande Synthe,Informal settlement,No Info,600,50.996901,2.286598
+Vintimille,Informal settlement,No Info,TBC,43.7912366,7.6075864
+Casa del Migrante,Migrant Shelter,No Info,38,32.523016,-117.001578
+Rome,"Migrant Shelter, Urban Refugees",2,500,41.9027835,12.4963655
+Husn Camp,Old Refugee Camp,4,50000,32.474833,35.903189
+"Jarash Camp ""known as Gaza camp"" ",Old Refugee Camp,0,29000,32.262673,35.856133
+Palestinian Refugees in Urban areas in Jordan,Old Refugee Camp,0,TBC,32.263496,35.856309
+Souf Camp ( Jarash ),Old Refugee Camp,4,TBC,32.310063,35.888115
+Al Baqa'a Camp,"Old Refugee Camp, Urban Refugee Camp",4,104000,32.065056,35.841397
+Amman New Camp,"Old Refugee Camp, Urban Refugee Camp",4,70000,31.93272,35.937808
+Irbid camp,"Old Refugee Camp, Urban Refugee Camp",4,8000,32.56366,35.847869
+Jabal El-Hussein Camp,"Old Refugee Camp, Urban Refugee Camp",4,30000,31.967126,35.923982
+Marka Camp,"Old Refugee Camp, Urban Refugee Camp",4,53000,31.957109,35.97276
+Talbieh Camp,"Old Refugee Camp, Urban Refugee Camp",4,8000,31.705416,35.948416
+Zarqa Camp,"Old Refugee Camp, Urban Refugee Camp",4,20000,32.0600147,36.0935805
+🇺🇸UNITED STATES / COUNTRY OVERVIEW,- Country Overview,606,29675,38.899391,-76.990552
+Al-Azraq camp,Refugee camp,0,40000,31.905491,36.597799
+Al-Za'atri Camp,Refugee camp,0,76645,32.293343,36.327715
+Dadaab,Refugee camp,No Info,200000,8.49613,123.3034062
+"Kranidi, Peloponese",Refugee camp,148,TBC,37.3805109,23.1602123
+Kutupalong camp (Cox Bazaar Rohingya Refugees Camp,Refugee camp,1,900000,21.2126317,92.1634691
+"Lesvos, Greece",Refugee camp,2,20000,39.2645095,26.2777073
+"Malakasa, Greece",Refugee camp,11,1788,38.2389,23.7806
+"Nea Kavala Camp, Greece",Refugee camp,0,1800,41.009923,22.572294
+Quarantines at Bhasan Char,Refugee camp,0,TBC,22.389208,91.391613
+Ritsona Camp,Refugee camp,1,3000,38.3870568,23.5040205
+"Vial Camp, Chios, Greece",Refugee camp,No Info,42000,38.3241839,26.0922107
+Wavel camp,Refugee camp,1,2000,34.0046888,36.2110399
+Afghans returnees from Iran and Pakistan,"Refugee camp, Urban Refugee Camp",No Info,15000,34.352865,62.2040287
+Berlin,Refugee center,2,500 approx,31.6294723,-7.9810845
+Suhl,Refugee center,13,500,15.552727,48.516388
+"La Crèche, Deux-Sèvres",Shelter,38,800,46.3613632,-0.3000753
+Behsood District,Urban Refugees,0,TBC,34.451646,70.458863
+Kuala Lumpur + Country Overview,Urban Refugees,13,180000,3.139003,101.686855
+Afghanistan Overview,- Country Overview,1531,,33.93911,67.709953
+Gaza & West Bank,- Country Overview,TBC,1900000,31.978186,35.214262
+Kakuma,Refugee camp,,194194,40.4167754,-3.7037902
